@@ -2,7 +2,9 @@ package cn.wen.springbootDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+/**
+ * test git push add to index update
+ */
 @SpringBootApplication
 public class Application {
 
